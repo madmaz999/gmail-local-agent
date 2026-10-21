@@ -13,4 +13,4 @@ download attachments for my own use.
 
 See [PRIVACY.md](PRIVACY.md) for how data is handled.
 
-Contact: YOUR-EMAIL@example.com
+Contact: mariofmeopt@gmail.com
